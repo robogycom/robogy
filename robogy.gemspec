@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "robogy"
   spec.version       = Robogy::VERSION
   spec.authors       = ["Robogy"]
-  spec.email         = ["support@robogy.com"]
+  spec.email         = ["oleh@robogy.com"]
 
   spec.summary       = %q{Helps to integrate with Robogy Cloud AI platform}
   spec.description   = %q{Helps to integrate with Robogy (www.robogy.com) Cloud AI platform}
